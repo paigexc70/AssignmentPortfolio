@@ -1,7 +1,8 @@
-.h1 {
+h1 {
     text-decoration: underline;
+    color: azure;
 }
 
 html{
-    background-color: coral;
+    background-color: rgb(252, 192, 81);
 }
